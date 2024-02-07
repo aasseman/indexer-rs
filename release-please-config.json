@@ -5,9 +5,6 @@
   "bump-patch-for-minor-pre-major": true,
   "prerelease": true,
   "draft": false,
-  "packages": {
-    "indexer-common": {}
-  },
   "plugins": [
     {
       "type": "cargo-workspace"
