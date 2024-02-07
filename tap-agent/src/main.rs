@@ -44,4 +44,5 @@ async fn main() -> Result<()> {
     // Stop the server and wait for it to finish gracefully.
     debug!("Goodbye!");
     Ok(())
+    // removeme
 }
