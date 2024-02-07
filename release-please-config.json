@@ -6,9 +6,7 @@
   "versioning": "prerelease",
   "draft": false,
   "packages": {
-    "common": {},
-    "service": {},
-    "tap-agent": {}
+    ".": {}
   },
   "plugins": [
     {
