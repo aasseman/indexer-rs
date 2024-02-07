@@ -3,6 +3,7 @@
   "release-type": "rust",
   "prerelease": true,
   "prerelease-type": "alpha",
+  "versioning": "prerelease",
   "draft": false,
   "packages": {
     "common": {},
