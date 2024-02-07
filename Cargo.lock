@@ -3082,7 +3082,7 @@ checksum = "ce23b50ad8242c51a442f3ff322d56b02f08852c77e4c0b4d3fd684abc89c683"
 
 [[package]]
 name = "indexer-common"
-version = "0.1.0"
+version = "1.0.0-alpha.0"
 dependencies = [
  "alloy-primitives",
  "alloy-sol-types",
@@ -3125,7 +3125,7 @@ dependencies = [
 
 [[package]]
 name = "indexer-tap-agent"
-version = "0.1.0"
+version = "1.0.0-alpha.0"
 dependencies = [
  "alloy-primitives",
  "alloy-sol-types",
@@ -5663,7 +5663,7 @@ dependencies = [
 
 [[package]]
 name = "service"
-version = "0.1.0"
+version = "1.0.0-alpha.0"
 dependencies = [
  "alloy-primitives",
  "alloy-sol-types",
