@@ -1,7 +1,9 @@
 [package]
 name = "indexer-common"
-version = "1.0.0-alpha.0"
-edition = "2021"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+publish = false
 
 [dependencies]
 alloy-primitives = { version = "0.6", features = ["serde"] }
