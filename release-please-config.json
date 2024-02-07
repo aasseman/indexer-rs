@@ -6,6 +6,11 @@
   "prerelease": true,
   "prerelease-type": "alpha",
   "draft": false,
+  "packages": {
+    "common": {},
+    "service": {},
+    "tap-agent": {}
+  },
   "plugins": [
     {
       "type": "cargo-workspace"
